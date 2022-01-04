@@ -1,7 +1,12 @@
 {
+    "attributes" : [ {
+        "trait_type" : "Source",
+        "value" : "New Unit Coin"
+      }, {
+        "trait_type" : "Cyber Category",
+        "value" : "Offensive"
+      } ],
+    "description" : "Congrats on being the first to mint!",
 	"image" : "https://raw.githubusercontent.com/AhmedKingIS/NFT/main/Photos/1.png",
-	"tokenId" : 1,
-	"name": "Scarlet Knight",
-    "description" : "Congrats on being the first to mint!"
+    "name": "Scarlet Knight"
 }
-
