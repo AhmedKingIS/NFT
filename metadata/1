@@ -1,12 +1,7 @@
 {
-    "attributes" : [ {
-      "trait_type" : "Breed",
-      "value" : "Maltipoo"
-    }, {
-      "trait_type" : "Eye color",
-      "value" : "Mocha"
-    } ],
-    "description" : "The world's most adorable and sensitive pup.",
-    "image" : "https://gateway.pinata.cloud/ipfs/QmWmvTJmJU3pozR9ZHFmQC2DNDwi2XJtf3QGyYiiagFSWb",
-    "name" : "Ramses"
+	"image" : "https://raw.githubusercontent.com/AhmedKingIS/NFT/main/Photos/1.png",
+	"tokenId" : 1,
+	"name": "Scarlet Knight",
+    "description" : "Congrats on being the first to mint!"
 }
+
