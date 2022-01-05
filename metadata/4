@@ -1,7 +1,12 @@
 {
-	"image":"https://raw.githubusercontent.com/AhmedKingIS/NFT/main/Photos/4.png"
-	"tokenId":4,
-	"name": "FTP"
-
-
+    "attributes" : [ {
+        "trait_type" : "Rarity",
+        "value" : "2/5"
+      }, {
+        "trait_type" : "Cyber Category",
+        "value" : "Offensive"
+      } ],
+    "description" : "Congrats on being the fourth to mint!",
+	"image" : "https://raw.githubusercontent.com/AhmedKingIS/NFT/main/Photos/4.png",
+    "name": "Fire Team Phoenix"
 }

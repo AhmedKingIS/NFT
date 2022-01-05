@@ -1,7 +1,12 @@
 {
-	"image":"https://raw.githubusercontent.com/AhmedKingIS/NFT/main/Photos/3.png"
-	"tokenId":3,
-	"name": "Blue Knights"
-
-
+    "attributes" : [ {
+        "trait_type" : "Rarity",
+        "value" : "5/5"
+      }, {
+        "trait_type" : "Cyber Category",
+        "value" : "Defensive"
+      } ],
+    "description" : "Congrats on being the third to mint!",
+	"image" : "https://raw.githubusercontent.com/AhmedKingIS/NFT/main/Photos/3.png",
+    "name": "Blue Knight"
 }

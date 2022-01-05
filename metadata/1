@@ -1,7 +1,7 @@
 {
     "attributes" : [ {
-        "trait_type" : "Source",
-        "value" : "New Unit Coin"
+        "trait_type" : "Rarity",
+        "value" : "5/5"
       }, {
         "trait_type" : "Cyber Category",
         "value" : "Offensive"

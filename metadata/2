@@ -1,7 +1,12 @@
 {
-	"image":"https://raw.githubusercontent.com/AhmedKingIS/NFT/main/Photos/2.png"
-	"tokenId":2,
-	"name": "39th IOS"
-
-
+    "attributes" : [ {
+        "trait_type" : "Rarity",
+        "value" : "3/5"
+      }, {
+        "trait_type" : "Cyber Category",
+        "value" : "Defensive"
+      } ],
+    "description" : "Congrats on being the second to mint!",
+	"image" : "https://raw.githubusercontent.com/AhmedKingIS/NFT/main/Photos/2.png",
+    "name": "39th IOS Emblem"
 }
